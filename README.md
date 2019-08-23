@@ -2,9 +2,11 @@
 
 DESCRIPTION PLACEHOLDER
 
-## What it does
+## Probot helps new users interact with GitHub
 
-FEATURES PLACEHOLDER
+Probot will show you how to make pull requests
+How to metadata to your posts
+Also, overall how to use GitHub
 
 ## Getting started
 
